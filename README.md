@@ -41,5 +41,7 @@ This project simulates a mini online bookstore database using PostgreSQL. It inc
 - Customers with multiple orders
 
 ---
+## Author - Kirti Analytics Hub
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 Made with ❤️ for SQL practice and learning.
